@@ -3,6 +3,10 @@
 <img align="center" src="./giphy.gif" alt="I am Badri" />
 
 
+#### Student@IIT Bombay
+#### Former SDE@ AMAZON
+
+
 ### ⚔️ My Skills
 
 ![OS: Linux](https://img.shields.io/static/v1?label=OS&message=Linux&logo=linux&color=green)
