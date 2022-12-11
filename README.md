@@ -23,18 +23,18 @@ Know more about me at my [site](https://rikilg.github.io) !
 
 ### 📈 My Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RikilG&theme=gruvbox&count_private=true&show_icons=true" alt="Github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuba-badri-vishal&theme=gruvbox&count_private=true&show_icons=true" alt="Github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikilG&theme=gruvbox&hide=tex&langs_count=9&layout=compact" alt="My most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuba-badri-vishal&theme=gruvbox&hide=tex&langs_count=9&layout=compact" alt="My most used languages" />
 
 ### 📌 Some Project Pins
 
-<a href="https://github.com/RikilG/issue_redressal_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RikilG&repo=issue_redressal_system&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
+<a href="https://github.com/kasuba-badri-vishal/issue_redressal_system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=issue_redressal_system&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
-<a href="https://github.com/RikilG/Propel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RikilG&repo=Propel&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
+<a href="https://github.com/kasuba-badri-vishal/Propel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Propel&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
-<a href="https://github.com/RikilG/AiBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RikilG&repo=AiBot&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
+<a href="https://github.com/kasuba-badri-vishal/AiBot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=AiBot&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
