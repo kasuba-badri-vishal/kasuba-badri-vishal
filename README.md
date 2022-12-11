@@ -1,8 +1,7 @@
-### \<!-- < W̸e̵l̴c̶o̵m̷e̸  > -->
+### \<!-- < Welcome To My Profile Page  > -->
 
 <img align="center" src="./giphy.gif" alt="I am Badri" />
 
-Know more about me at my [site](https://rikilg.github.io) !
 
 ### ⚔️ My Skills
 
