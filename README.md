@@ -2,10 +2,16 @@
 
 <img align="center" src="./giphy.gif" alt="I am Badri" />
 
+Know more about me at my [site](https://www.cse.iitb.ac.in/~badrivishalk/) !
+
 
 #### Student@IIT Bombay
-#### Former SDE@ AMAZON
 
+MS in Research Student at IIT Bombay, Computer Science Department working under the direct supervision of [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) 
+
+#### Former SDE@AMAZON
+
+Involved in Digital Payments team worked on accelerating the payment experience using various services while onboarding different payment methods into Amazon
 
 ### ⚔️ My Skills
 
