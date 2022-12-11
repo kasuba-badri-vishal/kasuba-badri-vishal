@@ -30,11 +30,11 @@ Know more about me at my [site](https://rikilg.github.io) !
 ### 📌 Some Project Pins
 
 <a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&Python-Space-Adventure-Game&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Python-Space-Adventure-Game&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
 <a href="https://github.com/kasuba-badri-vishal/household_issue_redressal_system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=household_issue_redressal_system&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
-<a href="https://github.com/document-analysis-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=document-analysis-tools&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
+<a href="https://github.com/kasuba-badri-vishal/GabruGeeks_FOML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=GabruGeeks_FOML&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
 </a>
