@@ -7,7 +7,7 @@ Know more about me at my [site](https://www.cse.iitb.ac.in/~badrivishalk/) !
 
 #### Student@IIT Bombay
 
-MS in Research Student at IIT Bombay, Computer Science Department working under the direct supervision of [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) 
+MS in Research Student at IIT Bombay, Computer Science Department working under the direct supervision of [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) and [Prof. Parag Chaudhuri](https://www.cse.iitb.ac.in/~paragc/)
 
 #### Former SDE@AMAZON
 
