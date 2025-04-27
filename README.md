@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Badri Vishal Kasuba | @kasuba-badri-vishal</h1>
+<h1 align="center">🔥 Welcome to my GitHub Den</h1>
 <p align="center"> <img src="./giphy.gif" alt="I am Badri" width="100%" /> </p> 
 
 <p align="center"> <b>MS Research Student @ IIT Bombay | Ex-SDE @ Amazon | Systems & AI Enthusiast</b> </p>
