@@ -32,6 +32,9 @@ Involved in Digital Payments team worked on accelerating the payment experience 
 
 ### 📈 My Github Stats
 
+![](https://komarev.com/ghpvc/?username=kasuba-badri-vishal&color=red&style=flat-square&label=PROFILE+VIEWS)
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuba-badri-vishal&theme=gruvbox&count_private=true&show_icons=true" alt="Github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuba-badri-vishal&theme=gruvbox&hide=tex&langs_count=9&layout=compact" alt="My most used languages" />
