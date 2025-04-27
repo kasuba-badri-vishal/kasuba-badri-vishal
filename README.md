@@ -36,6 +36,11 @@ Involved in Digital Payments team worked on accelerating the payment experience 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuba-badri-vishal&theme=gruvbox&hide=tex&langs_count=9&layout=compact" alt="My most used languages" />
 
+### 📌 Publications
+
+1. TEXTRON: Weakly Supervised Multilingual Text Detection through Data Programming
+2. SPRINT: Script-agnostic Structure Recognition in Tables
+
 ### 📌 Some Project Pins
 
 <a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game">
