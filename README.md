@@ -1,17 +1,15 @@
-### \<!-- < Welcome To My Profile Page  > -->
+<h1 align="center">🔥 Badri Vishal Kasuba | @kasuba-badri-vishal</h1>
+<p align="center"> <img src="./giphy.gif" alt="I am Badri" width="100%" /> </p> 
 
-<img align="center" src="./giphy.gif" alt="I am Badri" />
+<p align="center"> <b>MS Research Student @ IIT Bombay | Ex-SDE @ Amazon | Systems & AI Enthusiast</b> </p>
+🌐 About Me
+🎓 Pursuing MS by Research at IIT Bombay in the Computer Science & Engineering Department, under the guidance of Prof. Ganesh Ramakrishnan and Prof. Parag Chaudhuri.
 
-Know more about me at my [site](https://www.cse.iitb.ac.in/~badrivishalk/) !
+💼 Former SDE at Amazon — worked on accelerating digital payment experiences and integrating multiple payment methods seamlessly into Amazon systems.
 
+🚀 Passionate about system design, machine learning, and scalable architectures.
 
-#### Student@IIT Bombay
-
-MS in Research Student at IIT Bombay, Computer Science Department working under the direct supervision of [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) and [Prof. Parag Chaudhuri](https://www.cse.iitb.ac.in/~paragc/)
-
-#### Former SDE@AMAZON
-
-Involved in Digital Payments team worked on accelerating the payment experience using various services while onboarding different payment methods into Amazon
+🔗 Know more about me at my website - [link](https://www.cse.iitb.ac.in/~badrivishalk/).
 
 ### ⚔️ My Skills
 
@@ -51,20 +49,14 @@ Involved in Digital Payments team worked on accelerating the payment experience 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuba-badri-vishal&theme=dark" alt="YOUR_USERNAME" />
 </p>
 
+## 📰 Publications
+1. **TEXTRON**: Weakly Supervised Multilingual Text Detection through Data Programming
+2. **SPRINT**: Script-agnostic Structure Recognition in Tables
 
-### 📌 Publications
+## 📌 Featured Projects
+<p align="center">
+    <a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Python-Space-Adventure-Game&theme=gruvbox" /> </a>
+    <a href="https://github.com/kasuba-badri-vishal/household_issue_redressal_system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=household_issue_redressal_system&theme=gruvbox" /> </a>
+    <a href="https://github.com/kasuba-badri-vishal/GabruGeeks_FOML"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=GabruGeeks_FOML&theme=gruvbox" /> </a>
+</p>
 
-1. TEXTRON: Weakly Supervised Multilingual Text Detection through Data Programming
-2. SPRINT: Script-agnostic Structure Recognition in Tables
-
-### 📌 Some Project Pins
-
-<a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Python-Space-Adventure-Game&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
-</a>
-<a href="https://github.com/kasuba-badri-vishal/household_issue_redressal_system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=household_issue_redressal_system&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
-</a>
-<a href="https://github.com/kasuba-badri-vishal/GabruGeeks_FOML">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=GabruGeeks_FOML&title_color=fabd2f&icon_color=fe8019&text_color=8ec07c&bg_color=282828" />
-</a>
