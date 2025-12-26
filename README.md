@@ -1,67 +1,115 @@
-<h1 align="center">🔥 Welcome to my GitHub Den 🔥</h1>
-<p align="center"> <img src="./giphy.gif" alt="I am Badri" width="100%" /> </p> 
+<div align="center">
 
-<p align="center"> <b>Senior Engineer @Quadric IO | MS by Research @ IIT Bombay | Ex-SDE @ Amazon | Core Systems & AI Enthusiast</b> </p>
+  <img src="./giphy.gif" width="100" />
 
-🌐 About Me
+  <h1 align="center">Hi, I'm Badri Vishal</h1>
 
-💼 Currently working as Senior Compiler Engineer at Quadric IO, building Deep Learning Graph Compiler for Quadric's Chimera software
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3894E8&center=true&vCenter=true&width=435&lines=Senior+Engineer+%40+Quadric.io;MS+Research+Scholar+%40+IIT+Bombay;Ex-SDE+%40+Amazon;Compiler+%26+Systems+Enthusiast" alt="Typing SVG" />
+  </a>
 
-🎓 Pursued MS by Research at IIT Bombay in the Computer Science & Engineering Department, under the guidance of Prof. Ganesh Ramakrishnan and Prof. Parag Chaudhuri.
+  <p align="center">
+    <b>Senior Engineer @Quadric IO | MS by Research @ IIT Bombay | Ex-SDE @ Amazon</b>
+  </p>
 
-💼 Former SDE at Amazon — worked on accelerating digital payment experiences and integrating multiple payment methods seamlessly into Amazon systems.
+  <p align="center">
+    <a href="https://www.cse.iitb.ac.in/~badrivishalk/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-3894E8?style=for-the-badge&logo=firefox" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/badri-vishal-kasuba/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=kasuba-badri-vishal&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+</div>
 
-🚀 Passionate about Coding, System Design, Generative AI, and developing scalable architectures and systems.
+---
 
-🔗 Know more about me at my website - [link](https://www.cse.iitb.ac.in/~badrivishalk/).
+### 👨‍💻 About Me
 
-### ⚔️ My Skills
+- 💼 **Current Role:** Senior Compiler Engineer at **Quadric IO**, building a Deep Learning Graph Compiler for the Chimera software stack.
+- 🎓 **Education:** MS by Research at **IIT Bombay** (CSE Dept), guided by Prof. Ganesh Ramakrishnan and Prof. Parag Chaudhuri.
+- 💼 **Experience:** Former SDE at **Amazon**, focusing on accelerating digital payment experiences and seamless integration systems.
+- 🚀 **Interests:** Coding, System Design, Generative AI, and developing scalable architectures.
 
-![OS: Linux](https://img.shields.io/static/v1?label=OS&message=Linux&logo=linux&color=green)
-![Code: C](https://img.shields.io/static/v1?label=Code&message=C&logo=c&color=blue)
-![Code: C++](https://img.shields.io/static/v1?label=Code&message=C%2B%2B&logo=c%2B%2B&color=blue)
-![Code: Java](https://img.shields.io/static/v1?label=Code&message=Java&logo=java&color=blue)
-![Code: Python](https://img.shields.io/static/v1?label=Code&message=Python&logo=python&color=blue)
-![Code: JavaScript](https://img.shields.io/static/v1?label=Code&message=JavaScript&logo=javascript&color=blue)
-![Code: Bash](https://img.shields.io/static/v1?label=Code&message=Bash&logo=gnu-bash&color=blue)
-![Code: SQL](https://img.shields.io/static/v1?label=Code&message=SQL&logo=sqlite&color=blue)
-![Code: React](https://img.shields.io/static/v1?label=Code&message=React&logo=react&color=blue)
-![Tools: Android Studio](https://img.shields.io/static/v1?label=Tools&message=Android%20Studio&logo=android-studio&color=orange)
-![Tools: Eclipse](https://img.shields.io/static/v1?label=Tools&message=Eclipse&logo=eclipse&color=orange)
-![Tools: Electron](https://img.shields.io/static/v1?label=Tools&message=Electron&logo=electron&color=orange)
-![IDE: VSCode](https://img.shields.io/static/v1?label=IDE&message=VSCode&logo=visual-studio-code&color=purple)
-![IDE: Vim](https://img.shields.io/static/v1?label=IDE&message=Vim&logo=vim&color=purple)
+---
 
-### 📈 My Github Stats
+### 📊 GitHub Analytics
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=kasuba-badri-vishal&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github" alt="Badri's Github Stats" />
+      </td>
+      <td align="center" width="50%">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuba-badri-vishal&theme=tokyonight&hide=tex&langs_count=6&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuba-badri-vishal&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuba-badri-vishal&theme=gruvbox&count_private=true&show_icons=true" alt="Github stats" />
+### 🛠️ Tech Stack
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuba-badri-vishal&theme=gruvbox&hide=tex&langs_count=9&layout=compact" alt="My most used languages" />
+<table align="center">
+  <tr>
+    <td align="center" width="90"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Tools & OS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![Stats](https://komarev.com/ghpvc/?username=kasuba-badri-vishal&color=red&style=flat-square&label=PROFILE+VIEWS)
+---
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasuba-badri-vishal&show_icons=true&count_private=true&hide=issues&theme=dark" />
-</p>
+### 📰 Publications
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuba-badri-vishal&theme=dark" alt="kasuba-badri-vishal" />
-</p>
+| Paper Title | Area |
+| :--- | :--- |
+| **TEXTRON** | Weakly Supervised Multilingual Text Detection through Data Programming |
+| **SPRINT** | Script-agnostic Structure Recognition in Tables |
+| **PLATTER** | A Page-Level Handwritten Text Recognition System for Indic Scripts |
+| **DRISHTIKON** | Multi-Granular Visual Grounding for Text-Rich Document Images |
 
-## 📰 Publications
-1. **TEXTRON**: Weakly Supervised Multilingual Text Detection through Data Programming
-2. **SPRINT**: Script-agnostic Structure Recognition in Tables
-3. **PLATTER**: A Page-Level Handwritten Text Recognition System for Indic Scripts
-4. **DRISHTIKON**: Multi-Granular Visual Grounding for Text-Rich Document Images
+---
 
-## 📌 Featured Projects
-<p align="center">
-    <a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Python-Space-Adventure-Game&theme=gruvbox" /> </a>
-    <a href="https://github.com/kasuba-badri-vishal/household_issue_redressal_system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=household_issue_redressal_system&theme=gruvbox" /> </a>
-    <a href="https://github.com/kasuba-badri-vishal/GabruGeeks_FOML"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=GabruGeeks_FOML&theme=gruvbox" /> </a>
-</p>
+### 📌 Featured Projects
 
+<div align="center">
+  <a href="https://github.com/kasuba-badri-vishal/Python-Space-Adventure-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=Python-Space-Adventure-Game&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/kasuba-badri-vishal/household_issue_redressal_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=household_issue_redressal_system&theme=tokyonight" alt="Project 2" />
+  </a>
+  <a href="https://github.com/kasuba-badri-vishal/GabruGeeks_FOML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasuba-badri-vishal&repo=GabruGeeks_FOML&theme=tokyonight" alt="Project 3" />
+  </a>
+</div>
