@@ -5,7 +5,7 @@
   <h1 align="center">Hi, I'm Badri Vishal</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3894E8&center=true&vCenter=true&width=435&lines=Senior+Engineer+%40+Quadric.io;MS+Research+Scholar+%40+IIT+Bombay;Ex-SDE+%40+Amazon;Compiler+%26+Systems+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3894E8&center=true&vCenter=true&width=435&lines=Senior+Engineer+%40+Quadric.io;MS+Research+Scholar+%40+IIT+Bombay;Ex-SDE+%40+Amazon;Core+Systems+and+AI+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -16,7 +16,7 @@
     <a href="https://www.cse.iitb.ac.in/~badrivishalk/" target="_blank">
       <img src="https://img.shields.io/badge/Website-Visit%20Portfolio-3894E8?style=for-the-badge&logo=firefox" alt="Website" />
     </a>
-    <a href="https://www.linkedin.com/in/badri-vishal-kasuba/" target="_blank">
+    <a href="https://www.linkedin.com/in/badrivishalkasuba/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=kasuba-badri-vishal&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
